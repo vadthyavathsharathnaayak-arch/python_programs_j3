@@ -4,4 +4,4 @@
 2.choose files where it is located or drag and drop
 3.comit changes 
 4.add discription about your comit. 
-click on comit.
+5.click on comit.
